@@ -1,3 +1,5 @@
+# The Procastinot (Study Bot) Decription:
+
 For many university students, studying takes up a sizable portion of their lives. Resulting in them
 falling victim to procrastination and digital distractions. Studies have shown that cell phone usage and
 poor time management are among the lead causes of reduced academic productivity. To address the
